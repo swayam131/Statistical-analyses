@@ -1,0 +1,1 @@
+The Wilcoxon rank-sum test is used to determine whether there is a statistically significant difference in E-P (enhancer-promoter) interaction distributions between wild-type and deleted cell conditions.
